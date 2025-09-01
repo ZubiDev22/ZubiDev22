@@ -27,4 +27,4 @@ A **geospatial management platform** that connects with other applications (mana
 
 ---
 
-✨ *“Desarrollado por ZubiDev” — Building projects with passion and purpose.*
+✨ *“Developed by ZubiDev” — Building projects with passion and purpose.*
