@@ -23,7 +23,7 @@ A **geospatial management platform** that connects with other applications (mana
 ## 📫 Contact
 - GitHub: [ZubiDev22](https://github.com/ZubiDev22)  
 - LinkedIn: https://www.linkedin.com/in/marco-salas-zubieta-3b0177249/
-- Email's: marco_salas_zubiet22@hotmail.com, marco.axonlocutorio@gmail.com
+- Email's: marco_salas_zubieta22@hotmail.com, marco.axonlocutorio@gmail.com
 
 ---
 
